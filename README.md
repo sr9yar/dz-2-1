@@ -6,6 +6,7 @@ python run.py
 ```
 
 
-> Two middle letters for input test are: es
-> One middle letter for input testing is: t
+> Two middle letters for input 'test' are: es
+>
+> One middle letter for input 'testing' is: t
 
